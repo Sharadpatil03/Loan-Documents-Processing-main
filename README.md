@@ -1,5 +1,5 @@
 # Loan Document System
-This project is an Insurance Management System designed to manage insurances online efficiently. It features an intuitive end-user panel for clients and a robust admin panel for administrators, ensuring ease of use and proper functionality. The system is developed using HTML, CSS, JavaScript for the frontend, and PHP with MySQL for the backend.
+The project is a Loan Document Processing System designed to streamline the analysis and management of client documents for loan processing. It leverages Generative AI to analyze essential documents such as PAN cards, address proofs, and bank statements, providing detailed insights for efficient document verification and risk assessment. The system includes a user-friendly end-user panel for clients and a secure admin panel for administrators to oversee and manage applications effectively. Developed using HTML, CSS, JavaScript for the frontend and PHP with Flask for the backend, this project integrates advanced AI-driven analysis to enhance accuracy and efficiency in loan processing workflows.
 
 ## Features
 ### End-User Panel
